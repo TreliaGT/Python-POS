@@ -1,0 +1,37 @@
+[
+    {
+        "item_id": 1,
+        "name": "Widget",
+        "price": 19.99,
+        "description": "A useful widget for various purposes.",
+        "quantity": 100
+    },
+    {
+        "item_id": 2,
+        "name": "Gadget",
+        "price": 29.99,
+        "description": "A versatile gadget for many tasks.",
+        "quantity": 50
+    },
+    {
+        "item_id": 3,
+        "name": "Doohickey",
+        "price": 9.99,
+        "description": "A handy doohickey for small jobs.",
+        "quantity": 200
+    },
+    {
+        "item_id": 4,
+        "name": "Thingamajig",
+        "price": 14.99,
+        "description": "A popular thingamajig for everyday use.",
+        "quantity": 75
+    },
+    {
+        "item_id": 5,
+        "name": "Whatchamacallit",
+        "price": 24.99,
+        "description": "A well-loved whatchamacallit for all occasions.",
+        "quantity": 30
+    }
+]
